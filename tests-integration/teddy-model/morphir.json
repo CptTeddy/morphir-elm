@@ -1,0 +1,7 @@
+{
+  "name": "Transform",
+  "sourceDirectory": "src",
+  "exposedModules": [
+    "Issue802"
+  ]
+}
